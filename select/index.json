@@ -1,0 +1,240 @@
+{
+  "version": 1,
+  "base_track": "ウィーアー! for the new world",
+  "base_artist": "Hiroshi Kitadani",
+  "createdAt": "2026-02-17T10:33:11.613438Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ウィーアー!",
+      "artist": "TVXQ",
+      "has_synced": false,
+      "path": "select/01_ウィーアー!_TVXQ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ウィーアー!",
+      "artist": "AAA",
+      "has_synced": true,
+      "path": "select/02_ウィーアー!_AAA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ウィーアー!",
+      "artist": "AAA",
+      "has_synced": false,
+      "path": "select/03_ウィーアー!_AAA.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ウィーアー!",
+      "artist": "Hiroshi Kitadani",
+      "has_synced": true,
+      "path": "select/04_ウィーアー!_Hiroshi_Kitadani.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ウィーアー!",
+      "artist": "きただにひろし",
+      "has_synced": true,
+      "path": "select/05_ウィーアー!_きただにひろし.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ウィーアー!",
+      "artist": "Mary's Blood",
+      "has_synced": true,
+      "path": "select/06_ウィーアー!_Mary's_Blood.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ウィーアー！",
+      "artist": "きただにひろし",
+      "has_synced": false,
+      "path": "select/07_ウィーアー!_きただにひろし.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ウィーアー! ~7人の麦わら海賊団篇",
+      "artist": "7人の麦わら海賊団",
+      "has_synced": false,
+      "path": "select/08_ウィーアー!_~7人の麦わら海賊団篇_7人の麦わら海賊団.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ウィーアー! ～7人の麦わら海賊団篇～",
+      "artist": "7人の麦わら海賊団",
+      "has_synced": false,
+      "path": "select/09_ウィーアー!_~7人の麦わら海賊団篇~_7人の麦わら海賊団.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ウィーアー! 〜アニメーション ワンピース10周年Ver.〜",
+      "artist": "TVXQ",
+      "has_synced": true,
+      "path": "select/10_ウィーアー!_〜アニメーション_ワンピース10周年Ver.〜_TVXQ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ウィーアー! ～アニメーション ワンピース 10周年 Ver.～",
+      "artist": "東方神起",
+      "has_synced": true,
+      "path": "select/11_ウィーアー!_~アニメーション_ワンピース_10周年_Ver.~_東方神起.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ウィーアー! ~9人の麦わらの一味編~",
+      "artist": "9人の麦わらの一味(田中真弓・中井和哉・岡村明美・山口勝平・平田広明・大谷育江・山口由里子・矢尾一樹・チョー)",
+      "has_synced": true,
+      "path": "select/12_ウィーアー!_~9人の麦わらの一味編~_9人の麦わらの一味(田中真弓・中井和哉・岡村明美・山口勝平・平田広明・大谷育江・山口由里子・矢尾一樹・チョー).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ウィーアー! ~7人の麦わらの一味編~",
+      "artist": "7人の麦わらの一味",
+      "has_synced": true,
+      "path": "select/13_ウィーアー!_~7人の麦わらの一味編~_7人の麦わらの一味.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ウィーアー!〜9人の麦わら海賊団篇〜",
+      "artist": "麦わらの一味",
+      "has_synced": false,
+      "path": "select/14_ウィーアー!〜9人の麦わら海賊団篇〜_麦わらの一味.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "We Are! [ウィーアー!]",
+      "artist": "Mary's Blood",
+      "has_synced": true,
+      "path": "select/15_We_Are!_[ウィーアー!]_Mary's_Blood.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "We Are [ウィーアー]",
+      "artist": "All That Jazz",
+      "has_synced": false,
+      "path": "select/16_We_Are_[ウィーアー]_All_That_Jazz.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ウィーアー! (第1話〜47話 OP)",
+      "artist": "野口久男",
+      "has_synced": true,
+      "path": "select/17_ウィーアー!_(第1話〜47話_OP)_野口久男.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "ウィーアー！ （第1話～47話 OP)",
+      "artist": "Hisao Noguchi",
+      "has_synced": true,
+      "path": "select/18_ウィーアー!_(第1話~47話_OP)_Hisao_Noguchi.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "ウィーアー! (第1話〜47話 OP)",
+      "artist": "Hisao Noguchi",
+      "has_synced": true,
+      "path": "select/19_ウィーアー!_(第1話〜47話_OP)_Hisao_Noguchi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ウィーアー!",
+      "artist": "きただにひろし",
+      "has_synced": false,
+      "path": "select/pl_01_ウィーアー!_きただにひろし.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ウィーアー!",
+      "artist": "きただにひろし",
+      "has_synced": false,
+      "path": "select/pl_02_ウィーアー!_きただにひろし.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ウィーアー!",
+      "artist": "きただにひろし",
+      "has_synced": false,
+      "path": "select/pl_03_ウィーアー!_きただにひろし.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ウィーアー!",
+      "artist": "きただにひろし",
+      "has_synced": false,
+      "path": "select/pl_04_ウィーアー!_きただにひろし.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ウィーアー!",
+      "artist": "きただにひろし",
+      "has_synced": false,
+      "path": "select/pl_05_ウィーアー!_きただにひろし.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "ウィーアー!",
+      "artist": "きただにひろし",
+      "has_synced": false,
+      "path": "select/pl_06_ウィーアー!_きただにひろし.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "ウィーアー!",
+      "artist": "きただにひろし",
+      "has_synced": false,
+      "path": "select/pl_07_ウィーアー!_きただにひろし.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "ウィーアー!",
+      "artist": "きただにひろし",
+      "has_synced": false,
+      "path": "select/pl_08_ウィーアー!_きただにひろし.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "ウィーアー!",
+      "artist": "きただにひろし",
+      "has_synced": false,
+      "path": "select/pl_09_ウィーアー!_きただにひろし.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "ウィーアー!",
+      "artist": "きただにひろし",
+      "has_synced": false,
+      "path": "select/pl_10_ウィーアー!_きただにひろし.txt"
+    }
+  ]
+}
